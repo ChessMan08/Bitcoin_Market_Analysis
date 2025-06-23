@@ -6,8 +6,7 @@ This repository contains a Jupyter notebook and related files for analyzing the 
 
 - `Bitcoin_Market_Analysis.ipynb`  
   Main Jupyter notebook with all data loading, preprocessing, analysis, visualizations, and statistical tests.
-- `data/`  
-  (Optional) Directory where you may store the raw CSV files:
+- Data
   - `historical_data.csv`
   - `fear_greed_index.csv`
 - `requirements.txt`  
